@@ -1,16 +1,27 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>General Dashboard &mdash; Stisla</title>
+	<meta charset="utf-8" />
+	<title>Dashboard | Skote - Responsive Bootstrap 4 Admin Dashboard</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+	<meta content="Themesbrand" name="author" />
+	<!-- App favicon -->
+	<link rel="shortcut icon" href="<?=base_url()?>assets/images/favicon.ico">
 
-  <!-- General CSS Files -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<!-- Bootstrap Css -->
+	<link href="<?=base_url()?>assets/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+	<!-- Icons Css -->
+	<link href="<?=base_url()?>assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+	<!-- App Css-->
+	<link href="<?=base_url()?>assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
 
-  <!-- Template CSS -->
-  <link rel="stylesheet" href="<?php echo base_url('assets/assets_stisla')?>/assets/css/style.css">
-  <link rel="stylesheet" href="<?php echo base_url('assets/assets_stisla')?>/assets/css/components.css">
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 </head>
+
+<body data-sidebar="dark">
+	<!-- Begin page -->
+	<div id="layout-wrapper">
+
+			
+			<!-- End Page-content -->
